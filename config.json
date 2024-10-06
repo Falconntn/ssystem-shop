@@ -1,0 +1,108 @@
+{
+
+    "mainGuildID": "1283097666107998370",
+    "bot id": "1292172159678152799",
+
+  "member_id": "1169990170083340359",
+
+    "prefix":"-",
+
+    "registerGlobal": true,
+
+    "ownerID": ["1279077738300571742","933376097574326282","1269121098117812298"],  
+
+  "color": "#B7B7B7",
+  "title": " S",
+  "foot": " S",
+
+     "channels": 
+["1283899340036903007" , 
+"1283167467547525221" ,
+"1283138679036055563" ,
+"1283138410386555052" ,
+"1283138012326269060" ,
+"" ,
+"" ,
+"1283137711632285760" ,
+"1156713801933131836",
+"1156713810879586384"],
+
+"supportid":"1283454419274567744",
+"high": "1283446151223316500",
+
+"logbuy": "1292178112666144832", 
+  "log_rep" : "1292178112666144832",
+"buycategoryId" : "1283097666107998372", 
+
+"transfer": "933376097574326282", 
+
+  "probotid": "282859044593598464",
+
+  "lineurl" : "https://media.discordapp.net/attachments/1285582176007753842/1285960492157898822/7e738d79bd8698ce-1.png?ex=67029509&is=67014389&hm=ffcdea27308f2e3ede0feafc52da5097b443e941a499960f383632ef897592d7&",
+
+  "angelroleid": "1287489815004319785", 
+  "greatroleid": "1292277709371867199", 
+  "perfectroleid": "1287489733882286200",
+  "excellentroleid": "1287489634850312317", 
+  "designroleid": "1292278397682188340", 
+
+
+  "angelroleprice": "40000",
+  "greatroleprice": "50000", 
+  "perfectroleprice": "70000", 
+  "excellentroleprice": "90000", 
+  "goodroleprice": "40000", 
+  "designerroleprice" :"35000", 
+  "developerroleprice": "35000", 
+    "angelinfo": "40,000 Credit",
+  "greatinfo": "50,000 Credit", 
+  "perfectinfo": "70,000 Credit", 
+  "excellentinfo": "90,000 Credit", 
+  "designerinfo": "30,000 Credit",
+
+"viproleid": "1156713183982133339", 
+"asiaroleid": "1157352604033089648", 
+"legendroleid": "1145664732221669388",
+
+  "viproleprice": "100000", 
+  "asiaprice": "350000", 
+  "legendprice": "30", 
+
+  "vipinfo": "100,000 Credit", 
+  "asiainfo": "350,000 Credit", 
+  "legendinfo": "30", 
+
+"parent": "1156713334826082334", 
+  "privaterole": "1156713241649619065",
+
+  "roombuy": "80000", 
+  "roomrenewal":"40000", 
+
+  "roombuyinfo": "80,000 Credit", 
+  "roomrenewalinfo":"40,000 Credit", 
+
+
+  "shareroom": "1283137711632285760",
+  "everyonepricesh": "70000", 
+  "hereshareprice": "35000",
+
+  "everyoneinfo": "70,000 Credit", 
+  "hereinfo": "35,000 Credit",
+
+  "adsroom" : "1283124600187781211",
+  "giftroom": "1283124902445977711",
+  "parentad" : "1145081485565632572",
+
+"nomads": "40000",
+"hereads" : "100000",
+"everyoneads" : "300000",
+"giftad" : "600000",
+"roomad": "300000",
+"roomadg": "500000",
+"nomadsinfo": "40,000 Credit",
+"hereadsinfo" : "65,000 Credit",
+"everyoneadsinfo" : "300,000 Credit",
+"giftadinfo" : "600,000 Credit",
+"roomadinfo": "300,000 Credit",
+"roomadginfo": "500,000 Credit"
+}
